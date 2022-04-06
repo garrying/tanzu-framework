@@ -12,7 +12,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.18.1
 	github.com/pkg/errors v0.9.1
-	github.com/vmware-tanzu/carvel-kapp-controller v0.25.0
+	github.com/vmware-tanzu/carvel-kapp-controller v0.34.0
 	github.com/vmware-tanzu/carvel-secretgen-controller v0.5.0
 	github.com/vmware-tanzu/carvel-vendir v0.24.0
 	github.com/vmware-tanzu/tanzu-framework v0.9.0
