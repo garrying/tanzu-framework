@@ -1774,8 +1774,9 @@ github.com/vmware-tanzu/carvel-kapp-controller/cli v0.0.0-20220531050156-3beaddc
 github.com/vmware-tanzu/carvel-secretgen-controller v0.5.0 h1:3mSDyzhf52Y0jdvHrhJUf4Sk97CILBOkQt/WUaD8G/8=
 github.com/vmware-tanzu/carvel-secretgen-controller v0.5.0/go.mod h1:UW9xzccG6vjNoq2emVderTX11epILNyxtmGxFupRsHc=
 github.com/vmware-tanzu/carvel-vendir v0.23.0/go.mod h1:l35I00eXhYiIaZdOPeGX/zrj0WGfimSSqj81PrxGpAw=
-github.com/vmware-tanzu/carvel-vendir v0.24.0 h1:vEkhtfuI1ZQp8mndJJwUT0P8FyOaPrPaxSLxH89C8pI=
 github.com/vmware-tanzu/carvel-vendir v0.24.0/go.mod h1:Ls3P88J5x+i6ruw/gXgo3brIOGyfGqyzUCAofOuXRFc=
+github.com/vmware-tanzu/carvel-vendir v0.27.0 h1:Y+syvFQviFOmNmmYR+bsY5j9EMvDMPBdHGnwGW35QdU=
+github.com/vmware-tanzu/carvel-vendir v0.27.0/go.mod h1:PJiUiNTKLH5iSphBdGteECXQ9LOyNM2hx+BRFSB4PzE=
 github.com/vmware-tanzu/carvel-ytt v0.40.0 h1:WUWTtwvfqV9CN9v207oDt2xfhmuWHGwc4MMaXJAqIEE=
 github.com/vmware-tanzu/carvel-ytt v0.40.0/go.mod h1:crDcKbS1GM4Q34puoVxdrajWOXrxjOxvUCwtsNV5Etc=
 github.com/vmware-tanzu/net-operator-api v0.0.0-20210401185409-b0dc6c297707/go.mod h1:pDB0pUiFYufuP3lUkQX9fZ67PYnKvqBpDcJN3mSrw5U=
